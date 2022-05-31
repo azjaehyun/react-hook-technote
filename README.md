@@ -9,7 +9,7 @@ yarn install; yarn start
 
 # 예제 샘플코드 경로  
 ```
-./src/Exam{...}.js
+./src/component/Exam{...}.js
 
 ```
 
